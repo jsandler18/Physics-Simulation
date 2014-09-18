@@ -1,0 +1,12 @@
+
+
+public class /*class name here*/{
+
+	public /*class name here*/(){
+
+	}
+	
+	public static void main(String[] args){
+		/*class name here*/ go = new /*class name here*/();
+	}
+}
